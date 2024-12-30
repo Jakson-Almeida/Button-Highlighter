@@ -21,7 +21,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/button-highlighter.git
+   git clone https://github.com/Jakson-Almeida/button-highlighter.git
    ```
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable **Developer Mode** (toggle in the top-right corner).
