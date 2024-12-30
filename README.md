@@ -39,7 +39,7 @@ Here are some examples of the extension in action:
 
 **Before Applying**: ![No green border on buttons](https://github.com/Jakson-Almeida/Button-Highlighter/blob/main/my-button-highlighter/data/highlighter-before.png)
 
-**After Applying**: (All buttons have a green border applied)
+**After Applying**: ![All buttons have a green border applied](https://github.com/Jakson-Almeida/Button-Highlighter/blob/main/my-button-highlighter/data/highlighter-after.png)
 
 # Contact
 If you have any questions or suggestions, feel free to contact me through GitHub!
