@@ -37,7 +37,7 @@ Contributions are welcome! If you find a bug or want to suggest an improvement, 
 # Screenshots
 Here are some examples of the extension in action:
 
-**Before Applying**: (No green border on buttons)
+**Before Applying**: ![No green border on buttons](https://github.com/Jakson-Almeida/Button-Highlighter/blob/main/my-button-highlighter/data/highlighter-before.png)
 
 **After Applying**: (All buttons have a green border applied)
 
